@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model weights and checkpoints
+models/
+checkpoints/
+*.bin
+*.pth
+*.pt
+
+# Local reports
+reports/*.tmp
+reports/*.log
+
+# IDE / OS
+.idea/
+.DS_Store
+Thumbs.db
