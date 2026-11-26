@@ -19,7 +19,7 @@
 
 ## 任务结构
 
-![BERT 三任务总览](docs/overview.png)
+![BERT 三任务总览](docs/task-overview.png)
 
 三个任务共享同一个冻结的 BERT 骨干：
 
